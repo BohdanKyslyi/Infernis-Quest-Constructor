@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Infernis\\source\\repos\\Infernis_Quest_Constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C70667-F681-42A0-8687-33E9FA1B00CE}|Infernis_Quest_Constructor.csproj|c:\\users\\infernis\\source\\repos\\infernis_quest_constructor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1C70667-F681-42A0-8687-33E9FA1B00CE}|Infernis_Quest_Constructor.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C70667-F681-42A0-8687-33E9FA1B00CE}|Infernis_Quest_Constructor.csproj|c:\\users\\infernis\\source\\repos\\infernis_quest_constructor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C70667-F681-42A0-8687-33E9FA1B00CE}|Infernis_Quest_Constructor.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C70667-F681-42A0-8687-33E9FA1B00CE}|Infernis_Quest_Constructor.csproj|c:\\users\\infernis\\source\\repos\\infernis_quest_constructor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C70667-F681-42A0-8687-33E9FA1B00CE}|Infernis_Quest_Constructor.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Infernis\\source\\repos\\Infernis_Quest_Constructor\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Infernis\\source\\repos\\Infernis_Quest_Constructor\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:41:48.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Infernis\\source\\repos\\Infernis_Quest_Constructor\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Infernis\\source\\repos\\Infernis_Quest_Constructor\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAQwIAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:24:27.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u2014 \u0443\u043A\u0440\u0430\u0438\u043D\u0441\u043A\u0438\u0439 (\u0423\u043A\u0440\u0430\u0438\u043D\u0430)]",
+              "DocumentMoniker": "C:\\Users\\Infernis\\source\\repos\\Infernis_Quest_Constructor\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Infernis\\source\\repos\\Infernis_Quest_Constructor\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u2014 \u0443\u043A\u0440\u0430\u0438\u043D\u0441\u043A\u0438\u0439 (\u0423\u043A\u0440\u0430\u0438\u043D\u0430)]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u2014 \u0443\u043A\u0440\u0430\u0438\u043D\u0441\u043A\u0438\u0439 (\u0423\u043A\u0440\u0430\u0438\u043D\u0430)]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:16:57.422Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u2014 \u0443\u043A\u0440\u0430\u0438\u043D\u0441\u043A\u0438\u0439 (\u0423\u043A\u0440\u0430\u0438\u043D\u0430)]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

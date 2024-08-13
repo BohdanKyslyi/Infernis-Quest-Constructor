@@ -1,0 +1,1020 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema 
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 429</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 47</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Створити квест!</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="questNameTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 56</value>
+  </data>
+  <data name="questNameTB.PlaceholderText" xml:space="preserve">
+    <value>Назва квесту</value>
+  </data>
+  <data name="questNameTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>221, 23</value>
+  </data>
+  <data name="questNameTB.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;questNameTB.Name" xml:space="preserve">
+    <value>questNameTB</value>
+  </data>
+  <data name="&gt;&gt;questNameTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;questNameTB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;questNameTB.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="questIDTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 27</value>
+  </data>
+  <data name="questIDTB.PlaceholderText" xml:space="preserve">
+    <value>ID квесту</value>
+  </data>
+  <data name="questIDTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>221, 23</value>
+  </data>
+  <data name="questIDTB.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;questIDTB.Name" xml:space="preserve">
+    <value>questIDTB</value>
+  </data>
+  <data name="&gt;&gt;questIDTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;questIDTB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;questIDTB.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="questDescriptionTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 85</value>
+  </data>
+  <data name="questDescriptionTB.PlaceholderText" xml:space="preserve">
+    <value>Опис квесту</value>
+  </data>
+  <data name="questDescriptionTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>221, 23</value>
+  </data>
+  <data name="questDescriptionTB.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;questDescriptionTB.Name" xml:space="preserve">
+    <value>questDescriptionTB</value>
+  </data>
+  <data name="&gt;&gt;questDescriptionTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;questDescriptionTB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;questDescriptionTB.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="questIconComboBox.Items" xml:space="preserve">
+    <value>Vibros</value>
+  </data>
+  <data name="questIconComboBox.Items1" xml:space="preserve">
+    <value>kompas</value>
+  </data>
+  <data name="questIconComboBox.Items2" xml:space="preserve">
+    <value>Pripyat_1</value>
+  </data>
+  <data name="questIconComboBox.Items3" xml:space="preserve">
+    <value>Skat_1</value>
+  </data>
+  <data name="questIconComboBox.Items4" xml:space="preserve">
+    <value>Skat_2</value>
+  </data>
+  <data name="questIconComboBox.Items5" xml:space="preserve">
+    <value>Skat_3</value>
+  </data>
+  <data name="questIconComboBox.Items6" xml:space="preserve">
+    <value>Skat_4</value>
+  </data>
+  <data name="questIconComboBox.Items7" xml:space="preserve">
+    <value>Skat_5</value>
+  </data>
+  <data name="questIconComboBox.Items8" xml:space="preserve">
+    <value>Anomalnaya_aktivnost</value>
+  </data>
+  <data name="questIconComboBox.Items9" xml:space="preserve">
+    <value>Anomalnoe_rastenie</value>
+  </data>
+  <data name="questIconComboBox.Items10" xml:space="preserve">
+    <value>Artefakti_na_zakaz</value>
+  </data>
+  <data name="questIconComboBox.Items11" xml:space="preserve">
+    <value>Bezopasnoe_mesto</value>
+  </data>
+  <data name="questIconComboBox.Items12" xml:space="preserve">
+    <value>Bespilotniy_razvedchik</value>
+  </data>
+  <data name="questIconComboBox.Items13" xml:space="preserve">
+    <value>V_poiskah_Soroki</value>
+  </data>
+  <data name="questIconComboBox.Items14" xml:space="preserve">
+    <value>Vozmezdie</value>
+  </data>
+  <data name="questIconComboBox.Items15" xml:space="preserve">
+    <value>Vizhivshiy_monolit</value>
+  </data>
+  <data name="questIconComboBox.Items16" xml:space="preserve">
+    <value>Gauss_pushka</value>
+  </data>
+  <data name="questIconComboBox.Items17" xml:space="preserve">
+    <value>Gipoteza</value>
+  </data>
+  <data name="questIconComboBox.Items18" xml:space="preserve">
+    <value>Dolgi</value>
+  </data>
+  <data name="questIconComboBox.Items19" xml:space="preserve">
+    <value>Zalozhnik</value>
+  </data>
+  <data name="questIconComboBox.Items20" xml:space="preserve">
+    <value>Zamanchiviy_biznes</value>
+  </data>
+  <data name="questIconComboBox.Items21" xml:space="preserve">
+    <value>Izdelie_N62</value>
+  </data>
+  <data name="questIconComboBox.Items22" xml:space="preserve">
+    <value>Instrumenti</value>
+  </data>
+  <data name="questIconComboBox.Items23" xml:space="preserve">
+    <value>Issledovanie_anomaliy</value>
+  </data>
+  <data name="questIconComboBox.Items24" xml:space="preserve">
+    <value>Issledovatelskaya_gruppa</value>
+  </data>
+  <data name="questIconComboBox.Items25" xml:space="preserve">
+    <value>Istoriya_dolga</value>
+  </data>
+  <data name="questIconComboBox.Items26" xml:space="preserve">
+    <value>Ischeznovenie_stalkerov</value>
+  </data>
+  <data name="questIconComboBox.Items27" xml:space="preserve">
+    <value>Karti_mestnosti</value>
+  </data>
+  <data name="questIconComboBox.Items28" xml:space="preserve">
+    <value>Kontrakt_s_uchenimi</value>
+  </data>
+  <data name="questIconComboBox.Items29" xml:space="preserve">
+    <value>Kopachi</value>
+  </data>
+  <data name="questIconComboBox.Items30" xml:space="preserve">
+    <value>Krazha</value>
+  </data>
+  <data name="questIconComboBox.Items31" xml:space="preserve">
+    <value>Laboratoriya_X8</value>
+  </data>
+  <data name="questIconComboBox.Items32" xml:space="preserve">
+    <value>Lager_naemnikov</value>
+  </data>
+  <data name="questIconComboBox.Items33" xml:space="preserve">
+    <value>Logovo_krovososov</value>
+  </data>
+  <data name="questIconComboBox.Items34" xml:space="preserve">
+    <value>Mesta_evakuatsii</value>
+  </data>
+  <data name="questIconComboBox.Items35" xml:space="preserve">
+    <value>Naezd</value>
+  </data>
+  <data name="questIconComboBox.Items36" xml:space="preserve">
+    <value>Nedostupniy_taynik</value>
+  </data>
+  <data name="questIconComboBox.Items37" xml:space="preserve">
+    <value>Neizvestniy</value>
+  </data>
+  <data name="questIconComboBox.Items38" xml:space="preserve">
+    <value>Nochnaya_ohota</value>
+  </data>
+  <data name="questIconComboBox.Items39" xml:space="preserve">
+    <value>Oazis</value>
+  </data>
+  <data name="questIconComboBox.Items40" xml:space="preserve">
+    <value>Odin_vistrel</value>
+  </data>
+  <data name="questIconComboBox.Items41" xml:space="preserve">
+    <value>Otryad_Skat</value>
+  </data>
+  <data name="questIconComboBox.Items42" xml:space="preserve">
+    <value>Ohota_na_Himeru</value>
+  </data>
+  <data name="questIconComboBox.Items43" xml:space="preserve">
+    <value>Ohota_na_Krovososov</value>
+  </data>
+  <data name="questIconComboBox.Items44" xml:space="preserve">
+    <value>Ohota_na_Burerov</value>
+  </data>
+  <data name="questIconComboBox.Items45" xml:space="preserve">
+    <value>Ohrana_uchenih</value>
+  </data>
+  <data name="questIconComboBox.Items46" xml:space="preserve">
+    <value>Peremennoe_psi_izluchenie</value>
+  </data>
+  <data name="questIconComboBox.Items47" xml:space="preserve">
+    <value>Poslednie_razrabotki</value>
+  </data>
+  <data name="questIconComboBox.Items48" xml:space="preserve">
+    <value>Pripasi</value>
+  </data>
+  <data name="questIconComboBox.Items49" xml:space="preserve">
+    <value>Propavshaya_razvedgruppa</value>
+  </data>
+  <data name="questIconComboBox.Items50" xml:space="preserve">
+    <value>Propavshiy_chasovoy</value>
+  </data>
+  <data name="questIconComboBox.Items51" xml:space="preserve">
+    <value>Put_v_pripyat</value>
+  </data>
+  <data name="questIconComboBox.Items52" xml:space="preserve">
+    <value>Put_na_plato</value>
+  </data>
+  <data name="questIconComboBox.Items53" xml:space="preserve">
+    <value>Radiopomehi</value>
+  </data>
+  <data name="questIconComboBox.Items54" xml:space="preserve">
+    <value>Radiotechnika</value>
+  </data>
+  <data name="questIconComboBox.Items55" xml:space="preserve">
+    <value>Razgovor_s_glazu_na_glaz</value>
+  </data>
+  <data name="questIconComboBox.Items56" xml:space="preserve">
+    <value>Reputatsiya</value>
+  </data>
+  <data name="questIconComboBox.Items57" xml:space="preserve">
+    <value>Sdelka</value>
+  </data>
+  <data name="questIconComboBox.Items58" xml:space="preserve">
+    <value>Skoplenie_monolita</value>
+  </data>
+  <data name="questIconComboBox.Items59" xml:space="preserve">
+    <value>Strannoe_yavlenie</value>
+  </data>
+  <data name="questIconComboBox.Items60" xml:space="preserve">
+    <value>Temniy_biznes</value>
+  </data>
+  <data name="questIconComboBox.Items61" xml:space="preserve">
+    <value>Tri_tovarisha</value>
+  </data>
+  <data name="questIconComboBox.Items62" xml:space="preserve">
+    <value>Evakuatsiya</value>
+  </data>
+  <data name="questIconComboBox.Items63" xml:space="preserve">
+    <value>PD_storonnik_ravnovesiya</value>
+  </data>
+  <data name="questIconComboBox.Items64" xml:space="preserve">
+    <value>PD_master_boevih_sistem</value>
+  </data>
+  <data name="questIconComboBox.Items65" xml:space="preserve">
+    <value>PD_Sisshik</value>
+  </data>
+  <data name="questIconComboBox.Items66" xml:space="preserve">
+    <value>PD_Diplomat</value>
+  </data>
+  <data name="questIconComboBox.Items67" xml:space="preserve">
+    <value>PD_Drug_Dolga</value>
+  </data>
+  <data name="questIconComboBox.Items68" xml:space="preserve">
+    <value>PD_Drug_Swobodi</value>
+  </data>
+  <data name="questIconComboBox.Items69" xml:space="preserve">
+    <value>PD_Drug_Stalkerov</value>
+  </data>
+  <data name="questIconComboBox.Items70" xml:space="preserve">
+    <value>PD_Gonets_pravosudiya</value>
+  </data>
+  <data name="questIconComboBox.Items71" xml:space="preserve">
+    <value>PD_Master_visokih_technologiy</value>
+  </data>
+  <data name="questIconComboBox.Items72" xml:space="preserve">
+    <value>PD_Torgovets_informatsiey</value>
+  </data>
+  <data name="questIconComboBox.Items73" xml:space="preserve">
+    <value>PD_Hranitel_tayn</value>
+  </data>
+  <data name="questIconComboBox.Items74" xml:space="preserve">
+    <value>PD_Avtoritet</value>
+  </data>
+  <data name="questIconComboBox.Items75" xml:space="preserve">
+    <value>PD_Lider</value>
+  </data>
+  <data name="questIconComboBox.Items76" xml:space="preserve">
+    <value>PD_Ohotnik_na_mutantov</value>
+  </data>
+  <data name="questIconComboBox.Items77" xml:space="preserve">
+    <value>PD_Svoy_paren</value>
+  </data>
+  <data name="questIconComboBox.Items78" xml:space="preserve">
+    <value>PD_Nauchniy_sotrudnik</value>
+  </data>
+  <data name="questIconComboBox.Items79" xml:space="preserve">
+    <value>PD_Iskatel</value>
+  </data>
+  <data name="questIconComboBox.Items80" xml:space="preserve">
+    <value>PD_Opitniy_stalker</value>
+  </data>
+  <data name="questIconComboBox.Items81" xml:space="preserve">
+    <value>PD_Sostoyatelniy_klient</value>
+  </data>
+  <data name="questIconComboBox.Items82" xml:space="preserve">
+    <value>PD_Otmecheniy_zonoy</value>
+  </data>
+  <data name="questIconComboBox.Items83" xml:space="preserve">
+    <value>D_gonets_pravosudiya</value>
+  </data>
+  <data name="questIconComboBox.Items84" xml:space="preserve">
+    <value>D_Ohotnik_na_mutantov</value>
+  </data>
+  <data name="questIconComboBox.Items85" xml:space="preserve">
+    <value>D_Sisshik</value>
+  </data>
+  <data name="questIconComboBox.Items86" xml:space="preserve">
+    <value>D_Vipolnil_2_zadaniya_dlya_Dolga</value>
+  </data>
+  <data name="questIconComboBox.Items87" xml:space="preserve">
+    <value>D_Vipolnil_4_zadaniya_dlya_Dolga</value>
+  </data>
+  <data name="questIconComboBox.Items88" xml:space="preserve">
+    <value>D_Vipolnil_2_zadaniya_dlya_Swobodi</value>
+  </data>
+  <data name="questIconComboBox.Items89" xml:space="preserve">
+    <value>D_Vipolnil_4_zadaniya_dlya_Swobodi</value>
+  </data>
+  <data name="questIconComboBox.Items90" xml:space="preserve">
+    <value>Dengi_otdani</value>
+  </data>
+  <data name="questIconComboBox.Items91" xml:space="preserve">
+    <value>Dengi_polucheni</value>
+  </data>
+  <data name="questIconComboBox.Items92" xml:space="preserve">
+    <value>Predmet_otdan</value>
+  </data>
+  <data name="questIconComboBox.Items93" xml:space="preserve">
+    <value>Predmet_poluchen</value>
+  </data>
+  <data name="questIconComboBox.Items94" xml:space="preserve">
+    <value>Pered_zadaniyami_voennih</value>
+  </data>
+  <data name="questIconComboBox.Items95" xml:space="preserve">
+    <value>V_zone_nedavno_proshel_vibros</value>
+  </data>
+  <data name="questIconComboBox.Items96" xml:space="preserve">
+    <value>Neizvestnoe_oruzhie</value>
+  </data>
+  <data name="questIconComboBox.Items97" xml:space="preserve">
+    <value>Polucheni_koordinaty_taynika</value>
+  </data>
+  <data name="questIconComboBox.Items98" xml:space="preserve">
+    <value>PD_Pervootkrivatel</value>
+  </data>
+  <data name="questIconComboBox.Items99" xml:space="preserve">
+    <value>Sklad_dolga</value>
+  </data>
+  <data name="questIconComboBox.Items100" xml:space="preserve">
+    <value>Chuzhie_zaslugi</value>
+  </data>
+  <data name="questIconComboBox.Items101" xml:space="preserve">
+    <value>Osobiy_zakaz</value>
+  </data>
+  <data name="questIconComboBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 114</value>
+  </data>
+  <data name="questIconComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>221, 23</value>
+  </data>
+  <data name="questIconComboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="questIconComboBox.Text" xml:space="preserve">
+    <value>Іконка квесту</value>
+  </data>
+  <data name="&gt;&gt;questIconComboBox.Name" xml:space="preserve">
+    <value>questIconComboBox</value>
+  </data>
+  <data name="&gt;&gt;questIconComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;questIconComboBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;questIconComboBox.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="questPriorTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 143</value>
+  </data>
+  <data name="questPriorTB.PlaceholderText" xml:space="preserve">
+    <value>Пріоритет</value>
+  </data>
+  <data name="questPriorTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>221, 23</value>
+  </data>
+  <data name="questPriorTB.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;questPriorTB.Name" xml:space="preserve">
+    <value>questPriorTB</value>
+  </data>
+  <data name="&gt;&gt;questPriorTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;questPriorTB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;questPriorTB.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="isStorylineLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="isStorylineLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>67, 187</value>
+  </data>
+  <data name="isStorylineLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>102, 15</value>
+  </data>
+  <data name="isStorylineLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="isStorylineLabel.Text" xml:space="preserve">
+    <value>Квест сюжетний?</value>
+  </data>
+  <data name="&gt;&gt;isStorylineLabel.Name" xml:space="preserve">
+    <value>isStorylineLabel</value>
+  </data>
+  <data name="&gt;&gt;isStorylineLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;isStorylineLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;isStorylineLabel.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="isStorylineTrue.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="isStorylineTrue.Location" type="System.Drawing.Point, System.Drawing">
+    <value>175, 171</value>
+  </data>
+  <data name="isStorylineTrue.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 19</value>
+  </data>
+  <data name="isStorylineTrue.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="isStorylineTrue.Text" xml:space="preserve">
+    <value>Так</value>
+  </data>
+  <data name="&gt;&gt;isStorylineTrue.Name" xml:space="preserve">
+    <value>isStorylineTrue</value>
+  </data>
+  <data name="&gt;&gt;isStorylineTrue.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;isStorylineTrue.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;isStorylineTrue.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="isStorylineFalse.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="isStorylineFalse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>175, 196</value>
+  </data>
+  <data name="isStorylineFalse.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 19</value>
+  </data>
+  <data name="isStorylineFalse.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="isStorylineFalse.Text" xml:space="preserve">
+    <value>Ні</value>
+  </data>
+  <data name="&gt;&gt;isStorylineFalse.Name" xml:space="preserve">
+    <value>isStorylineFalse</value>
+  </data>
+  <data name="&gt;&gt;isStorylineFalse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;isStorylineFalse.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;isStorylineFalse.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="questTargetTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 221</value>
+  </data>
+  <data name="questTargetTB.PlaceholderText" xml:space="preserve">
+    <value>Ціль на карті</value>
+  </data>
+  <data name="questTargetTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>221, 23</value>
+  </data>
+  <data name="questTargetTB.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;questTargetTB.Name" xml:space="preserve">
+    <value>questTargetTB</value>
+  </data>
+  <data name="&gt;&gt;questTargetTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;questTargetTB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;questTargetTB.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="condlistsLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="condlistsLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 248</value>
+  </data>
+  <data name="condlistsLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 15</value>
+  </data>
+  <data name="condlistsLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="condlistsLabel.Text" xml:space="preserve">
+    <value>Умова, при якій квест:</value>
+  </data>
+  <data name="&gt;&gt;condlistsLabel.Name" xml:space="preserve">
+    <value>condlistsLabel</value>
+  </data>
+  <data name="&gt;&gt;condlistsLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;condlistsLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;condlistsLabel.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="condlist_2_TB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 324</value>
+  </data>
+  <data name="condlist_2_TB.PlaceholderText" xml:space="preserve">
+    <value>-info4 =funtion(story)</value>
+  </data>
+  <data name="condlist_2_TB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 23</value>
+  </data>
+  <data name="condlist_2_TB.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;condlist_2_TB.Name" xml:space="preserve">
+    <value>condlist_2_TB</value>
+  </data>
+  <data name="&gt;&gt;condlist_2_TB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;condlist_2_TB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;condlist_2_TB.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="condlist_0_TB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 266</value>
+  </data>
+  <data name="condlist_0_TB.PlaceholderText" xml:space="preserve">
+    <value>+info -info2 =function</value>
+  </data>
+  <data name="condlist_0_TB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 23</value>
+  </data>
+  <data name="condlist_0_TB.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;condlist_0_TB.Name" xml:space="preserve">
+    <value>condlist_0_TB</value>
+  </data>
+  <data name="&gt;&gt;condlist_0_TB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;condlist_0_TB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;condlist_0_TB.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="condlist_1_TB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 295</value>
+  </data>
+  <data name="condlist_1_TB.PlaceholderText" xml:space="preserve">
+    <value>+info3 !function</value>
+  </data>
+  <data name="condlist_1_TB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 23</value>
+  </data>
+  <data name="condlist_1_TB.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;condlist_1_TB.Name" xml:space="preserve">
+    <value>condlist_1_TB</value>
+  </data>
+  <data name="&gt;&gt;condlist_1_TB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;condlist_1_TB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;condlist_1_TB.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="rewardItemTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 368</value>
+  </data>
+  <data name="rewardItemTB.PlaceholderText" xml:space="preserve">
+    <value>wpn_pm:ammo_9x18_pmm:af_medusa</value>
+  </data>
+  <data name="rewardItemTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>221, 23</value>
+  </data>
+  <data name="rewardItemTB.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;rewardItemTB.Name" xml:space="preserve">
+    <value>rewardItemTB</value>
+  </data>
+  <data name="&gt;&gt;rewardItemTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rewardItemTB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;rewardItemTB.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="rewardMoneyTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 400</value>
+  </data>
+  <data name="rewardMoneyTB.PlaceholderText" xml:space="preserve">
+    <value>1000</value>
+  </data>
+  <data name="rewardMoneyTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 23</value>
+  </data>
+  <data name="rewardMoneyTB.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;rewardMoneyTB.Name" xml:space="preserve">
+    <value>rewardMoneyTB</value>
+  </data>
+  <data name="&gt;&gt;rewardMoneyTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rewardMoneyTB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;rewardMoneyTB.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="condlist0Label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="condlist0Label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>177, 269</value>
+  </data>
+  <data name="condlist0Label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 15</value>
+  </data>
+  <data name="condlist0Label.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="condlist0Label.Text" xml:space="preserve">
+    <value>виконується</value>
+  </data>
+  <data name="&gt;&gt;condlist0Label.Name" xml:space="preserve">
+    <value>condlist0Label</value>
+  </data>
+  <data name="&gt;&gt;condlist0Label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;condlist0Label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;condlist0Label.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="condlist1Label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="condlist1Label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>177, 298</value>
+  </data>
+  <data name="condlist1Label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 15</value>
+  </data>
+  <data name="condlist1Label.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="condlist1Label.Text" xml:space="preserve">
+    <value>відміняється</value>
+  </data>
+  <data name="&gt;&gt;condlist1Label.Name" xml:space="preserve">
+    <value>condlist1Label</value>
+  </data>
+  <data name="&gt;&gt;condlist1Label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;condlist1Label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;condlist1Label.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="condlist2Label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="condlist2Label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>175, 327</value>
+  </data>
+  <data name="condlist2Label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 15</value>
+  </data>
+  <data name="condlist2Label.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="condlist2Label.Text" xml:space="preserve">
+    <value>провалюється</value>
+  </data>
+  <data name="&gt;&gt;condlist2Label.Name" xml:space="preserve">
+    <value>condlist2Label</value>
+  </data>
+  <data name="&gt;&gt;condlist2Label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;condlist2Label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;condlist2Label.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="rewardItemLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rewardItemLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 350</value>
+  </data>
+  <data name="rewardItemLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 15</value>
+  </data>
+  <data name="rewardItemLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="rewardItemLabel.Text" xml:space="preserve">
+    <value>Предметна винагорода:</value>
+  </data>
+  <data name="&gt;&gt;rewardItemLabel.Name" xml:space="preserve">
+    <value>rewardItemLabel</value>
+  </data>
+  <data name="&gt;&gt;rewardItemLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rewardItemLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;rewardItemLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="rewardMoneyLabel1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rewardMoneyLabel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 403</value>
+  </data>
+  <data name="rewardMoneyLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 15</value>
+  </data>
+  <data name="rewardMoneyLabel1.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="rewardMoneyLabel1.Text" xml:space="preserve">
+    <value>Грошова винагорода</value>
+  </data>
+  <data name="&gt;&gt;rewardMoneyLabel1.Name" xml:space="preserve">
+    <value>rewardMoneyLabel1</value>
+  </data>
+  <data name="&gt;&gt;rewardMoneyLabel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rewardMoneyLabel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;rewardMoneyLabel1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="rewardMoneyLabel2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rewardMoneyLabel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>221, 403</value>
+  </data>
+  <data name="rewardMoneyLabel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 15</value>
+  </data>
+  <data name="rewardMoneyLabel2.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="rewardMoneyLabel2.Text" xml:space="preserve">
+    <value>UAH</value>
+  </data>
+  <data name="&gt;&gt;rewardMoneyLabel2.Name" xml:space="preserve">
+    <value>rewardMoneyLabel2</value>
+  </data>
+  <data name="&gt;&gt;rewardMoneyLabel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rewardMoneyLabel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;rewardMoneyLabel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>uk-UA</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>304, 501</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>320, 540</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>320, 540</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Infernis Quest Constructor version 1.0</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
